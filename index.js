@@ -13,19 +13,13 @@ function returnsANamedFunction(){
  return newKat()
  
 }
-// function teaParty(){
-//    let dead = '';
-//    return dead 
-// }
 function returnsAnAnonymousFunction(){
    
-const sayBye = function() {
-   return "bye Bi***!"
+return function (bye = "bye witch! ") {
+     
+}
    
 }
 
-
-
-  }
    
 
